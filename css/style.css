@@ -1,0 +1,23 @@
+body {
+    align-items: center;
+}
+
+#form {
+    padding: 10px;
+    margin: auto;
+    top: 50px;
+}
+
+.reset {
+    margin: 10px;
+    float: right;
+}
+
+#spouce {
+    display: none;
+}
+/*
+.response{
+	display: none;
+}
+*/
